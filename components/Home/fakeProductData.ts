@@ -1,0 +1,50 @@
+export const ProductData = [
+    {
+        date: '2019-01-01',
+        name: 'Souris sans fil',
+        description: 'Souris sans fil',
+        image: 'https://th.bing.com/th/id/R.fc62be064b12137fbcf38df815e5225e?rik=xGHdFQd5%2fS3lyA&pid=ImgRaw&r=0',
+        proprietary: 'proprietary1',
+        price: 40000,
+    },
+    {
+        date: '2019-01-02',
+        name: 'Clavier mécanique',
+        description: 'Clavier mécanique',
+        image: 'https://th.bing.com/th/id/OIP.5_rJ68b-VyYXaSxSYj-t_QHaEK?pid=ImgDet&w=820&h=461&rs=1',
+        proprietary: 'proprietary2',
+        price: 50000,
+    },
+    {
+        date: '2019-01-03',
+        name: 'Carte graphique',
+        description: 'description3',
+        image: 'https://th.bing.com/th/id/R.33cada50cf449c26f353e62d8b77c3b4?rik=8YXkVMH9mbVxSQ&pid=ImgRaw&r=0',
+        proprietary: 'proprietary3',
+        price: 600000,
+    },
+    {
+        date: '2019-01-04',
+        name: 'Casque audio gamer',
+        description: 'description4',
+        image: 'https://th.bing.com/th/id/R.cadd7b4dff50a9d5658e45c1b25ec185?rik=9kpdNQVx%2buZT%2bg&pid=ImgRaw&r=0',
+        proprietary: 'proprietary4',
+        price: 60000,
+    },
+    {
+        date: '2019-01-03',
+        name: 'Écouteur bluetooth',
+        description: 'description3',
+        image: 'https://th.bing.com/th/id/R.d8d3f428311b19738e6084c56e0a60d4?rik=0vaUHjneFR4iZg&pid=ImgRaw&r=0',
+        proprietary: 'proprietary3',
+        price: 30000,
+    },
+    {
+        date: '2019-01-04',
+        name: 'Ordinateur portable gamer',
+        description: 'description4',
+        image: 'https://th.bing.com/th/id/R.e877d4c717d2f5ae8506608626c95eb8?rik=5L1uVUiOrsk%2bGw&pid=ImgRaw&r=0',
+        proprietary: 'proprietary4',
+        price: 5000000,
+    }
+]

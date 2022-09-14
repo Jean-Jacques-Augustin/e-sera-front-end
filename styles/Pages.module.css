@@ -1,0 +1,25 @@
+.centered {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    min-height: calc(100vh - 65px) !important;
+}
+
+.connexion {
+    display: flex;
+    justify-content: center;
+    border-radius: 10px !important;
+    padding: 2vh;
+    max-width: 300px;
+    flex-direction: column;
+}
+
+.inscription {
+    display: flex;
+    justify-content: center;
+    border-radius: 10px !important;
+    padding: 2vh;
+    max-width: 600px;
+    flex-direction: column;
+}

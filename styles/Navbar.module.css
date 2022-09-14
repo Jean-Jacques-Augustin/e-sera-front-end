@@ -1,0 +1,17 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nlink {
+    text-decoration: none;
+    padding: 0 1rem;
+    color: inherit;
+}
+
+.flexRow {
+    display: flex;
+}
